@@ -1,0 +1,77 @@
+////////
+//Tech//
+////////
+
+React
+Apollo
+GraphQL
+Next.js
+Node
+MongoDB
+
+
+
+
+
+/////////////
+//Listeners//
+/////////////
+
+    TIER 1
+      can sign up
+      search for songs
+      make playlists
+      follow Artists
+
+    TIER 2
+      in app messaging to other listeners or Artists
+      find local shows (bandsintown API?)
+      buy merch
+
+///////////
+//Artists//
+///////////
+
+    TIER 1
+      Same as Listeners PLUS
+      upload own music
+      manage band profile page
+
+    TIER 2
+      Same as Listeners PLUS
+      announce and market shows
+      sell merch
+      blog posts w/ comments
+
+////////////////
+//Band Members//
+////////////////
+
+      TIER 1
+        same as Artists
+
+      TIER 2
+        respond to band messages as individual instead of band account
+
+
+/////////
+//Admin//
+/////////
+
+      All of the above plus
+      add/delete users
+      database control
+
+
+
+/////////
+//Pages//
+/////////
+
+
+
+//////////////
+//Components//
+//////////////
+
+
