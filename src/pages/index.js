@@ -59,7 +59,7 @@ const IndexPage = () => (
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <Hero>
       <div className="hero">
-        <h1>Scenes.FM</h1>
+        <h1>Scenes.fm</h1>
         <h4>Revolutionizing discovering and listening to local music.</h4>
         <p>(Under Construction)</p>
       </div>
